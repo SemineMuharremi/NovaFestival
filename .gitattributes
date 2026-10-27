@@ -3,3 +3,6 @@
 *.jpg binary
 *.jpeg binary
 *.webp binary
+
+# Some .php files start with HTML, which GitHub misdetects as Hack
+*.php linguist-language=PHP
