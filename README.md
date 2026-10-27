@@ -1,4 +1,4 @@
-# NOVA Festival 🎶
+# NOVA Festival 
 
 A full-stack ticketing website for a fictional 3-day music festival. Visitors can browse events and artists, create an account, buy tickets and download e-tickets. Administrators manage the whole festival from a dashboard with sales analytics.
 
@@ -91,6 +91,4 @@ To use different credentials, set the `DB_HOST`, `DB_PORT`, `DB_USER`, `DB_PASS`
 └── database.sql         # Schema and demo data
 ```
 
-## Author
 
-**Semine Muharremi** · [GitHub](https://github.com/SemineMuharremi)
